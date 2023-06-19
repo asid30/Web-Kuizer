@@ -1,0 +1,20 @@
+body{
+    background-image: url('bg.jpg');
+    background-repeat: repeat-y;
+}
+
+.login{
+    background-color: white;
+}
+
+.kuis{
+    background-color: white;
+}
+
+#merah{
+    color: red;
+}
+
+#gambar{
+    border-radius: 50%;
+}
